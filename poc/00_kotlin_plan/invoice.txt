@@ -1,0 +1,65 @@
+INVOICE
+
+                                                                                                 Invoice Number: 0000000000/00/M/00/N
+                                                                                                 Stockholm Centr. Tra, 08.01.2026
+
+Company/Mr/Ms                                                                                    Driver address
+DOE
+JOHN
+STREET NUMBER
+
+00000 CITY
+COUNTRY
+
+
+
+Beneficiary recipient:                      Customer No:               00000000                   Car Group:               CFAR XX000000
+                                            Voucher No:                                           Order No:
+                                            Reservation No:            0000000000                 Order No2:
+                                            Registration:              XXX XXX                    Order No3:
+                                            Internal No:               00000403                   Payment:                 EC ****************
+                                            Driver's Name:             DOE                        VAT-ID No.:
+                                            Vehicle Type:              TOYOT YARIS CROSS UTL PET AUT
+                                                                                                  Costc. Cu.:
+
+
+
+
+Check Out Date:            01.01.2026 Time:      17:28   Km: 745            Tank: 8 / 8       City: Stockholm Centr. Tra
+Check In Date:             08.01.2026 Time:      12:54   Km: 2925           Tank: 8 / 8       City: Stockholm Centr. Tra      Total km: 2180
+Booked:                    08.01.2026            17:00
+
+                                                                                  Quantity     Single Amount                         Total Amount
+T     Rental days                                        (per week)                   1   x           1.325,10                        1.325,10 SEK
+X     Extra days                                                                      1   x             189,30                          189,30 SEK
+L     Tires suitable for winter                                                       8   x              16,00                          128,00 SEK
+BF    *CTI DS (Trygg Hansa)                                                           8   x              70,00                          560,00 SEK
+LD    *CTI (Trygg Hansa)                                                              8   x              92,86                          742,88 SEK
+TG    *Tire and glass                                                                 8   x              30,00                          240,00 SEK
+AD    Additional driver                                                               8   x              40,00                          320,00 SEK
+T3    Toll Charge                                                                     1   x               0,00                            0,00 SEK
+T4    General Toll Service                                                            1   x               0,00                            0,00 SEK
+Y     Premium Location Fee                                                            1   x             200,00                          200,00 SEK
+      Rate includes all kms
+
+
+                                                                                                     Net Total:                       3.705,28 SEK
+                                                                                                25,00% VAT:                             540,60 SEK
+                                                                                                                                               SEK
+                                                                                                   Gross Total:                       4.245,88 SEK
+                                                                                                       Prepaid                       -4.245,88 SEK
+
+                                                                                                 Amount Due:                              0,00 SEK
+*Not obliged to VAT according to ML [1994:200]
+
+
+
+
+This amount has been charged to your MasterCard account.
+This is not a payment request. This is the invoice for your records.
+
+
+
+
+Bil AB, 211 20 MALMÖ, Tel: 00-00000000
+email: stockholm@bil.cse, VAT-No:SE000000000000, Innehar F-skattebevis
